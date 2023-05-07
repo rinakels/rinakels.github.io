@@ -286,3 +286,14 @@ div.accordion-body{
     }
     
 }
+@media (max-width: 991px) {
+        section {
+                    padding: 10rem 3% 2rem;
+    }
+}
+
+@media (max-width: 450px) {
+        html {
+                    font-size: 50%;
+    }
+}
